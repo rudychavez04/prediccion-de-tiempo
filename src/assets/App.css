@@ -1,0 +1,55 @@
+body{
+    background-color: #10131a;
+}
+
+.App{
+
+text-align: center;
+
+}
+
+.input-group{
+    width: 60%;
+}
+
+.card{
+    max-width: 60%;
+}
+
+.card-title{
+    position: absolute;
+    padding: 20px;
+}
+
+.card-date{
+    position: absolute;
+    padding-left: 20px;
+    margin-top: 60px;
+}
+
+.card-temp{
+    position: absolute;
+    padding: 20px;
+    margin-top: 260px;
+    font-size: 50px;
+}
+
+.card-desc{
+    position: absolute;
+    padding-left: 20px;
+    margin-top: 320px;
+
+}
+
+.img-fluid{
+    
+  opacity: 0.1;
+  
+}
+.temp{
+    text-align: center;
+}
+
+.description{
+    text-align: center;
+}
